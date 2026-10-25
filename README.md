@@ -5,7 +5,7 @@
 ---
 
 ### About me
-I'm a Electronics Engineering student at SFU
+ENSC student at SFU
 
 ### What I work on
 - **Embedded systems:** Arduino, ESP32, sensors, servos, stepper motors, LCDs, serial and WebSocket communication
