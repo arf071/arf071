@@ -1,19 +1,12 @@
 <h1 align="center">Allen Fernandez</h1>
 <h3 align="center">Electronics Engineering student at Simon Fraser University</h3>
-<p align="center">Embedded systems · FPGA design · Analog circuits · Computer vision</p>
 
 ---
 
 ### About me
 ENSC student at SFU
 
-### What I work on
-- **Embedded systems:** Arduino, ESP32, sensors, servos, stepper motors, LCDs, serial and WebSocket communication
-- **Digital design:** VHDL, FSMs, DE1-SoC, Quartus Prime, ModelSim, SignalTap II
-- **Analog and controls:** CMOS op-amp design in Cadence OrCAD X and PSpice, PID control in MATLAB and Simulink
-- **Computer vision:** Python and OpenCV color tracking
-
-### Featured projects
+### projects
 - **[SET: Score Event Tracker](https://github.com/arf071/set-score-event-tracker)** (Protohacks 2026): webcam volleyball auto-scorer with an Arduino scoreboard (LCD, LEDs, buzzer, servo flag). *Python, OpenCV, Arduino C++*
 - **[Otter Tutor](https://github.com/ChrisColbourne/Hackathon26-/tree/main)** (StormHacks 2026): desk robot that watches a whiteboard and points a laser at a student's first mistake. *ESP32, Arduino C++, WebSocket*
 - **Two-Stage Folded-Cascode CMOS Op-Amp:** 70.41 dB gain, 2.18 MHz unity-gain bandwidth, 0.66 mW. *Cadence OrCAD X, PSpice*
